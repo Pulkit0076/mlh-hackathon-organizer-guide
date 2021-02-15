@@ -1,8 +1,13 @@
----
-description: The MLH Hackathon Organizer Guide
----
+<table align="center" >
+  <tr>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>The MLH Hackathon Organizer Guide</td>
+  </tr>
+</table>
 
-# Introduction
+ # Introduction
 
 #### Welcome to the MLH Hackathon Organizer Guide! This is a community initiative by [Major League Hacking](https://mlh.io) that contains a lot of the lessons that we and the hackathon community around the world have learned from organizing hackathons — all in a single student hackathon playbook.
 
